@@ -11,10 +11,11 @@
 
 - 📫 How to reach me **sagarpanda99@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ytplrOyY2ksclqI53sCg9U7kPLFbxZKE/view?usp=sharing](https://drive.google.com/file/d/1ytplrOyY2ksclqI53sCg9U7kPLFbxZKE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ytplrOyY2ksclqI53sCg9U7kPLFbxZKE/view?usp=sharing)
 <br><br>
 <hr>
 <h3 align="left">Connect with me:</h3>
+<p> 
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
