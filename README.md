@@ -12,11 +12,11 @@
 - 📫 How to reach me **sagarpanda99@yahoo.com**
 
 - 📄 Know about my experiences :  [Resume](https://drive.google.com/file/d/1ytplrOyY2ksclqI53sCg9U7kPLFbxZKE/view?usp=sharing)
-- LinkedIn : [LinkedIn](https://www.linkedin.com/in/sagarpanda99) 
+
 <br><br>
 <hr>
 <h3 align="left">Connect with me:</h3>
-
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/sagarpanda99) 
 
 
 <hr>
