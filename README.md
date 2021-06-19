@@ -15,9 +15,8 @@
 <br><br>
 <hr>
 <h3 align="left">Connect with me:</h3>
-<p>
-  </a>LinkedIn <a href="https://www.linkedin.com/in/sagarpanda99" target="_blank">
-</p>
+[LinkedIn](https://www.linkedin.com/in/sagarpanda99/) 
+
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
